@@ -1,0 +1,24 @@
+header {
+    display: flex;
+    background-color: red;
+}
+
+header a {
+    text-decoration: none;
+}
+
+nav  {
+    display: block;
+    list-style-type: none;
+    background-color: blue;
+    padding: 8px; 
+}
+
+.section Content {
+    display: flex;
+    justify-content: start;
+    color: red;
+    
+}
+
+
